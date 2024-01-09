@@ -340,6 +340,7 @@ header .title {
   display: flex;
   flex-direction: column;
   gap:9px;
+  font-size:17px;
  }
  .find-us-details {
   width: 96%;
@@ -347,7 +348,7 @@ header .title {
   gap: 11px;
 }
 .find-us-container .map iframe {
-  width: 267px;
+  width: 255px;
   height: 183px;
   padding-bottom: 20px;
 }
